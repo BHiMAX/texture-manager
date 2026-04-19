@@ -9,17 +9,17 @@ A Blender addon to manage, relink, gather and inspect all texture paths in one p
 
 ## Features
 
-- **Filter textures** by status — All, Connected, Missing, Packed, or Unused
-- **Relink** — search a directory recursively and automatically relink missing textures by filename
-- **Collect** — copy all external textures into a single folder
-- **Pack / Unpack** — pack images into the blend file or unpack them back to disk
-- **Batch path editing** — change the directory for entire folder groups at once
-- **Make Relative / Absolute** — convert all texture paths in one click
-- **Remap Duplicates** — merge duplicate image datablocks and clean up the extras
-- **Delete Missing & Unused** — remove broken or orphaned images from the file
-- **Node cleanup** — remove disconnected nodes from selected objects or all materials
-- **Stats panel** — total image count, breakdown by status, and total disk size
-- **Octane Render support** — detects Octane image texture nodes alongside standard ones
+- **Filter textures** by status - All, Connected, Missing, Packed, or Unused
+- **Relink** - search a directory recursively and automatically relink missing textures by filename
+- **Collect** - copy all external textures into a single folder
+- **Pack / Unpack** - pack images into the blend file or unpack them back to disk
+- **Batch path editing** - change the directory for entire folder groups at once
+- **Make Relative / Absolute** - convert all texture paths in one click
+- **Remap Duplicates** - merge duplicate image datablocks and clean up the extras
+- **Delete Missing & Unused** - remove broken or orphaned images from the file
+- **Node cleanup** - remove disconnected nodes from selected objects or all materials
+- **Stats panel** - total image count, breakdown by status, and total disk size
+- **Octane Render support** - detects Octane image texture nodes alongside standard ones
 
 ---
 
